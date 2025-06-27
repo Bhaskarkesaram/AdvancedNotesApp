@@ -25,7 +25,9 @@
 
 ## 📁 File Structure
 -- AdvancedNotesApp.java
+
 -- notes.txt ← Auto-created and used to store notes
+
 -- README.md
 
 
@@ -53,18 +55,22 @@ When you run the program, you'll see this menu:
 5. Exit
    
 -- Choose the appropriate number for the action.
+
 -- When writing a note, type lines of your note and enter END on a new line to finish.
 
 ## 📝 Notes Format
 Each note is saved in the following format:
 
 === Title ===
+
 Timestamp: 2025-06-27 14:30:00
+
 Line 1 of the note...
+
 Line 2 of the note...
+
 ...
 ----END NOTE----
-
 
 
 ## ⚠️ Important
